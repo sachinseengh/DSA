@@ -1,0 +1,1 @@
+ printf("How many terms you want to print\n");
